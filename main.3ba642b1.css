@@ -1,0 +1,2 @@
+body{margin:0}.box{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}@media (min-width:1200px){.box{grid-template-columns:repeat(3,1fr)}}.box__cell{height:300px;font-family:Arial,Helvetica,sans-serif;font-size:100px;color:#fff;text-align:center;line-height:300px}.box__cell--1{background-color:red}.box__cell--2{background-color:#c00}.box__cell--3{background-color:#900}.box__cell--4{background-color:#600}.box__cell--5{background-color:#300}.box__cell--6{background-color:#000}
+/*# sourceMappingURL=main.3ba642b1.css.map */
